@@ -15,3 +15,4 @@
           -웹스코프(request, session, application 등이 있음) 
 @ObjectProvider -> 객체를 사용시점에 받아와서 DL(Dependency Lookup) 해서 사용(request scope Bean과 같이 스프링뜰때 Bean생성이 불가능한 경우 사용)
 @Scope 기능에 Proxy모드도 있음
+
